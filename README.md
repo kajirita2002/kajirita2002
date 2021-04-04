@@ -8,8 +8,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajirita2002)](https://github.com/kajirita2002/github-readme-stats)
 
-[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/kajirita2002/kajirita2002/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kajirita2002)](https://github.com/kajirita2002/github-profile-trophy)
