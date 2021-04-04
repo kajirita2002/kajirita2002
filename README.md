@@ -1,5 +1,5 @@
 ### About Me:
-- 🔭 I’m currently working on CyberAgent(22)
+- 🔭 I’m currently working on CyberAgent
 - 📫 How to reach me: https://twitter.com/kiokisun_prog (Twitter)
 
 <h3 align="left">Languages and Tools:</h3>
