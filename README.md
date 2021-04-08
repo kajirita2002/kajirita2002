@@ -1,7 +1,3 @@
-### About Me:
-- 🔭 I’m currently working on CyberAgent
-- 📫 How to reach me: https://twitter.com/kiokisun_prog (Twitter)
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/kiokisun_prog?style=social)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kajirita2002/posts.svg)](http://qiita.com/kaijrita2002)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kajirita2002/contributions.svg)](http://qiita.com/kajirita2002)
