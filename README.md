@@ -16,5 +16,6 @@
 ![](https://raw.githubusercontent.com/kajirita2002/kajirita2002/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/kajirita2002/kajirita2002/main/profile-summary-card-output/github_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/kajirita2002/kajirita2002/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kajirita2002&" alt="kajirita2002" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kajirita2002&theme=onedark)](https://github.com/kajirita2002/github-profile-trophy)
