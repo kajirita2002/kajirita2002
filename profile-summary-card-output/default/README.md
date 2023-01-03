@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kajirita2002/kajirita2002/main/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
